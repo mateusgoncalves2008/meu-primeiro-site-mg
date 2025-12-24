@@ -1,11 +1,11 @@
 @font-face {
     font-family: "IDroid";
-    src: url("/Font/idroid/IDroid\ Bold.otf") format("opentype");
+    src: url("Font/idroid/IDroid/Bold.otf") format("opentype");
 }
 
 @font-face {
     font-family: "Bebas Neue";
-    src: url("/Font/Bebas_Neue/BebasNeue-Regular.ttf") format("truetype");
+    src: url("Font/Bebas_Neue/BebasNeue-Regular.ttf") format("truetype");
 }
 
 * {
