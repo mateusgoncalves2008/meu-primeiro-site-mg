@@ -152,6 +152,7 @@ main {
             padding-bottom: 9px;
             margin: 10px;
             border-radius: 11px;
+            box-shadow: 3px 3px 8px #0000004e;
         }
 
         aside #container-h3 {
@@ -161,12 +162,11 @@ main {
         }
 
         #container-h3 {
-            font-size: 0.9em;
             font-weight: bold;
             font-family: Arial, Helvetica, sans-serif;
             text-indent: 15px;
-            padding: 1.2px;
             box-shadow: 1px 7px 8px rgba(52, 52, 52, 0.489);
+            padding: 0.8px;
         }
 
         aside > ol {
@@ -266,7 +266,6 @@ footer {
 }
 
 @media (min-width: 770px) and (max-width: 2560px) {
-
     nav a:hover {
         background-color: #139440;
         border-radius: 12px;
